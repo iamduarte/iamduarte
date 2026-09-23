@@ -36,5 +36,6 @@ Also experienced and certified in several state-of-the-art no-code platforms.
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-0000FF?style=for-the-badge&logoColor=white)
 ![WeWeb](https://img.shields.io/badge/WeWeb-6C4BF4?style=for-the-badge&logoColor=white)
 ![Xano](https://img.shields.io/badge/Xano-1A1A2E?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
