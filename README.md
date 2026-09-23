@@ -1,11 +1,13 @@
+<div align="center">
+
 ### Hi, I'm Duarte
 
 Product engineer building full-stack web applications, with proven experience shipping production-ready systems end-to-end — from data modeling to polished front ends. Also experienced and certified in several state-of-the-art no-code platforms.
 
+
 [iamduarte.com](https://iamduarte.com) · [LinkedIn](https://linkedin.com/in/marquesduarte)
 
-
-<div align="center">
+  
 **Languages & Frameworks**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
