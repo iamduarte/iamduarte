@@ -2,7 +2,7 @@
 
 ### Hi, I'm Duarte
 
-Product engineer building full-stack web applications, with proven experience shipping production-ready systems end-to-end — from data modeling to polished front ends.
+Product engineer building full-stack web applications, with proven experience shipping production-ready systems from end to end, from data modeling to polished front ends.
 Also experienced and certified in several state-of-the-art no-code platforms.
 
 
